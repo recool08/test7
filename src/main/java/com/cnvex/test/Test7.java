@@ -6,7 +6,11 @@ public class Test7 {
 		
 		// 111
 		// 222
-		
+		System.out.print("2222222222");
+	}
+
+	public void abc() {
+
 	}
 
 }
